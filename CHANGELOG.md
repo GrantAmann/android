@@ -3,9 +3,9 @@
 - Updated FILE TYPE ICONS
 - Preview TXT files within the app
 - COPY files & folders
-- Preview the full file/folder name from the long press menu
+- Preview the full file/folder name with the long press menu
 - Set a file as FAVORITE (kept-in-sync) from the CONTEXT MENU
-- Updated CONFLICT RESOLUTION dialog (wording)
+- Updated CONFLICT RESOLUTION dialog to help with wording issues
 - Updated background for images with TRANSPARENCY in GALLERY
 - Hidden files will not enforce list view instead of GRID VIEW (folders from Picasa & others)
 - Security:
